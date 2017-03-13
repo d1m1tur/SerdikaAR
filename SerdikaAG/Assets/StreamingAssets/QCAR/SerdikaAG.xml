@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Screenshot_2" size="1.000000 0.935860" />
+    <ImageTarget name="Screenshot_1" size="1.000000 0.877150" />
+    <ImageTarget name="ndk2" size="1.000000 0.795918" />
+    <ImageTarget name="nevsky1" size="1.000000 0.700252" />
+    <ImageTarget name="tracker2" size="1.000000 1.375392" />
+    <ImageTarget name="test" size="1.000000 1.375392" />
+    <ImageTarget name="tracker" size="1.000000 1.375392" />
+    <ImageTarget name="PolyA" size="1.000000 0.532937" />
+  </Tracking>
+</QCARConfig>
